@@ -151,7 +151,7 @@ void loop() {
       display.print("SpO2 = ");
       display.print(spo2);
       display.print("T = ");
-      display.print("SpO2 = 97%");
+      display.print(temperature);
       display.print((char)247);
       display.print("C");
       display.display();
